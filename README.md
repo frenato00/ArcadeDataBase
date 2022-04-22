@@ -1,1 +1,1 @@
-General Repository with submodules 
+Project DataBase, includes stable copies of the game projects 
